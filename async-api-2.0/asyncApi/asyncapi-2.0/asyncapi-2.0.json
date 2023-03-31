@@ -35,7 +35,7 @@
       } ]
     },
     "Staging" : {
-      "url" : "mqtt://staging.api.print.example.com:{port}",
+      "url" : "https://staging.api.print.example.com:{port}",
       "protocol" : "mqtt",
       "protocolVersion" : "v3.1.1",
       "description" : "Staging server.",
